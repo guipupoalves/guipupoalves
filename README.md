@@ -24,6 +24,7 @@ As a Software Engineering student and technology enthusiast, dedication, discipl
 
 <div style="display: inline_block">
 <img align="center" height="400" widht="300" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021426001978331186/tempConv.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br><br><br>
 <img align="center" height="400" widht="300" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021426199391649852/calcWeb.png">
 <br><br><br><br>
 <img align="center" height="400" widht="300" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021427201104687164/formHTML.png">
