@@ -17,6 +17,10 @@ As a Software Engineering student and technology enthusiast, dedication, discipl
             <img align="center" alt="Gui-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
             <img align="center" alt="Gui-Linux" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
             <img align="center" alt="Gui-UE" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+            <h3>HTML</h3>
+            <h3>CSS</h3>
+            <h3>JavaScript</h3>
+            <h3>Python</h3>
             <h3>Unreal Engine 5</h3>
            
 </div>
