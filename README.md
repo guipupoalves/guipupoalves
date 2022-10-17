@@ -19,6 +19,8 @@ As a Software Engineering student and technology enthusiast, dedication, discipl
             <img align="center" alt="Gui-UE" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
 </div>
 
+CS50 -
+
 ##
 
 ## ✔ My projects 
