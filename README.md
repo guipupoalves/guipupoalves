@@ -18,7 +18,7 @@ As a Software Engineering student and technology enthusiast, dedication, discipl
             <img align="center" alt="Gui-Linux" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
             <img align="center" alt="Gui-UE" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
 </div>
-<h1>Unreal Engine 5; C; C++</h1>
+<h1>Unreal Engine 5; C</h1>
 
 ##
 
