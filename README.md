@@ -25,9 +25,9 @@ As a Software Engineering student and technology enthusiast, dedication, discipl
 
 <div style="display: inline_block">
 <img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1033130061584416808/unknown.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br><br><br>
+<br><br><br>
 <img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1032036350288994374/ImgEngMax1.png">
-<br><br><br><br>
+<br><br><br>
 <img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1033127029459140628/unknown.png">
 
 ## ✔ My projects 
