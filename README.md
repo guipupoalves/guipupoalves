@@ -6,7 +6,7 @@ Estudante de Engenharia de Software e amante da tecnologia, possuo como base ded
 
 ## About me (English)
 
-As a Software Engineering student and technology enthusiast, dedication, discipline and organization defines me. 
+As a Software Engineering student and technology enthusiast, dedication, discipline and organization defines me 
 
 ##
 <body>
