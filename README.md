@@ -21,7 +21,7 @@ As a Software Engineering student and technology enthusiast, dedication, discipl
 
 ##
 
-## ✔ My CS50X Final Project - Harvard University. 
+## ✔ My CS50X Final Project - Harvard University 
 
 <div style="display: inline_block">
 <img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1033130061584416808/unknown.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
