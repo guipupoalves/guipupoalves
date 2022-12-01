@@ -4,7 +4,7 @@
 
 Estudante de Engenharia de Software e amante da tecnologia, possuo como base dedicação, disciplina e organização.
 
-- Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança;
+- Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança
 
 ## About me (English)
 
