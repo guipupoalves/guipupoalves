@@ -2,13 +2,13 @@
 
 ## Sobre mim (Português)
 
-Estudante de Engenharia de Software e amante da tecnologia, possuo como base dedicação, disciplina e organização.
+Estudante de Engenharia de Software e amante da tecnologia com foco na área de Segurança da Informação, possuo como base dedicação, disciplina e organização.
 
 - Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança
 
 ## About me (English)
 
-As a Software Engineering student and technology enthusiast, dedication, discipline and organization defines me. 
+As a Software Engineering student and Infosec enthusiast, dedication, discipline and organization defines me. 
 
 ##
 <body>
