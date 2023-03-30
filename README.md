@@ -10,6 +10,8 @@ Estudante de Engenharia de Software e amante da tecnologia com foco na área de 
 
 As a Software Engineering student and Infosec enthusiast, dedication, discipline and organization defines me. 
 
+- Cibersecurity program scholarship holder at CISCO Brazil CyberEducation: CCNA + CyberOps Associate
+
 ##
 <body>
 <div style="display: inline_block"><br>
