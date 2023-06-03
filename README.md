@@ -2,13 +2,27 @@
 
 ## Sobre mim (Português)
 
-Estudante de Engenharia de Software e amante da tecnologia com foco na área de Segurança da Informação, possuo como base dedicação, disciplina e organização.
+Estudante de Engenharia de Software e amante da tecnologia com foco em segurança cibernética, possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
 
-- Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança
+Desenvolvi e apresentei meu projeto final "Quality of Life evaluation scale (AUQEI) – Modernização do questionário" no curso CS50x da Universidade de Harvard.
+- Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (1997).)
+
+- Hacker Ético Associado @IBSEC
+
+- Analista de Cibersegurança (Governança) Associado @IBSEC
+
+- Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança (CCNA + CyberOps Associate)
 
 ## About me (English)
 
-As a Software Engineering student and Infosec enthusiast, dedication, discipline and organization defines me. 
+As a Software Engineering student focusing on cybersecurity: dedication, discipline and organization defines me. I'm a great team worker, a good communicator/listener and focused. My main goal is to growth professionally and personally in order to contribute to technological solutions and innovations.
+
+Developed and presented my Final Project "Quality of Life evaluation scale (AUQEI) – Modernization of the questionnaire" in the CS50x course at Harvard University.
+- All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).)
+
+- Ethical Hacker @IBSEC
+
+- Associate Cybersecurity Analyst (Governance) @IBSEC
 
 - Cibersecurity program scholarship holder at CISCO Brazil CyberEducation: CCNA + CyberOps Associate
 
