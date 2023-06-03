@@ -1,3 +1,5 @@
+<img align="center" alt="Gui-Capa" height="250" width="600" src="https://cdn.discordapp.com/attachments/1021425234093559830/1114375357353709629/Gui_Pupo_Alves_-_capa.png">
+
 # Olá, tudo bem? <img height="40" width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 ## Sobre mim (Português)
