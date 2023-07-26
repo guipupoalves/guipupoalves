@@ -38,7 +38,7 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
             <br><br><br>
             <img align="center" alt="Gui-RED_TEAM" height="70" width="300" src="https://camo.githubusercontent.com/df931952954363ab8e50e725f8b6512a701e97cc39f6d34df7ffdde20bf0dfea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265645465616d2d4646303030303f7374796c653d666c6174266c6f676f3d6861636b61646179266c6f676f436f6c6f723d7768697465"
             <br><br><br>
-            <img align="center" alt="Gui-Sec" heigh="40" width="300" src="https://camo.githubusercontent.com/4e22c0cf45712bed58c8b601575b5e284991ea33147a5ef7e03ec743b9f88acb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53656375726974792d3035313232413f7374796c653d666c6174266c6f676f3d6861636b6164617926636f6c6f723d626c61636b"
+            <img align="center" alt="Gui-Sec" height="70" width="300" src="https://camo.githubusercontent.com/4e22c0cf45712bed58c8b601575b5e284991ea33147a5ef7e03ec743b9f88acb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53656375726974792d3035313232413f7374796c653d666c6174266c6f676f3d6861636b6164617926636f6c6f723d626c61636b"
             <br><br><br>
             <img align="center" alt="Gui-Linux" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
             <img align="center" alt="Gui-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
