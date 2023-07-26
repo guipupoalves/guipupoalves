@@ -35,11 +35,11 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
             <img align="center" alt="Gui-Kali" height="60" width="250" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
             <br>
             <img align="center" alt="Gui-Cybersec" height="60" width="300" src="https://camo.githubusercontent.com/f2ab9e7020eca273a03235a2a555cb722e8265baa5382314d5ee83a9af219445/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437962657253656375726974792d3035313232413f7374796c653d666c6174266c6f676f3d6861636b6164617926636f6c6f723d626c61636b"
-            <br>
+            <br><br><br>
             <img align="center" alt="Gui-RED_TEAM" height="60" width="300" src="https://camo.githubusercontent.com/df931952954363ab8e50e725f8b6512a701e97cc39f6d34df7ffdde20bf0dfea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265645465616d2d4646303030303f7374796c653d666c6174266c6f676f3d6861636b61646179266c6f676f436f6c6f723d7768697465"
-            <br><br>
+            <br><br><br>
             <img align="center" alt="Gui-Sec" heigh="60" width="300" src="https://camo.githubusercontent.com/4e22c0cf45712bed58c8b601575b5e284991ea33147a5ef7e03ec743b9f88acb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53656375726974792d3035313232413f7374796c653d666c6174266c6f676f3d6861636b6164617926636f6c6f723d626c61636b"
-                        <br>
+            <br><br><br>
             <img align="center" alt="Gui-Linux" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
             <img align="center" alt="Gui-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
             <img align="center" alt="Gui-HTML" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
