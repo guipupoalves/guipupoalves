@@ -32,7 +32,7 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
 ##
 <body>
 <div style="display: inline_block"><br>
-            <img align="center" alt="Gui-Kali" height="60" width="250" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+            <img align="center" alt="Gui-Kali" height="60" width="300" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
             <br><br><br>
             <img align="center" alt="Gui-Cybersec" height="60" width="300" src="https://camo.githubusercontent.com/f2ab9e7020eca273a03235a2a555cb722e8265baa5382314d5ee83a9af219445/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437962657253656375726974792d3035313232413f7374796c653d666c6174266c6f676f3d6861636b6164617926636f6c6f723d626c61636b"
             <br><br><br>
