@@ -5,7 +5,7 @@
 
 ## Sobre mim (Português)
 
-Estudante de Engenharia de Software e amante da tecnologia com foco em segurança cibernética, possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
+Pós graduando lato sensu - MBA em Engenharia de Software pela USP e amante da tecnologia com foco em segurança cibernética, possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
 
 Desenvolvi e apresentei meu projeto final "Quality of Life evaluation scale (AUQEI) – Modernização do questionário" no curso CS50x da Universidade de Harvard.
 Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (1997).)
