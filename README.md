@@ -18,7 +18,7 @@ Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (19
 
 ## About me (English)
 
-As a Software Engineering student focusing on cybersecurity: dedication, discipline and organization defines me. I'm a great team worker, a good communicator/listener and focused. My main goal is to growth professionally and personally in order to contribute to technological solutions and innovations.
+MBA Software Engineering student at University of São Paulo focusing on cybersecurity: dedication, discipline and organization defines me. I'm a great team worker, a good communicator/listener and focused. My main goal is to growth professionally and personally in order to contribute to technological solutions and innovations.
 
 Developed and presented my Final Project "Quality of Life evaluation scale (AUQEI) – Modernization of the questionnaire" in the CS50x course at Harvard University.
 All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).)
