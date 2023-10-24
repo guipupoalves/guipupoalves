@@ -58,7 +58,7 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
 ## ✔ My projects 
 
 <div style="display: inline_block">
-<img align="center" height="400" width="1920" src="https://cdn.discordapp.com/attachments/1021425234093559830/1165998097172803667/image.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" height="400" width="1800" src="https://cdn.discordapp.com/attachments/1021425234093559830/1165998097172803667/image.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" height="400" width="400" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021426001978331186/tempConv.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" height="400" width="400" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021426199391649852/calcWeb.png">
 <br><br>
