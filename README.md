@@ -55,15 +55,16 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
 <br><br><br>
 <img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1033127029459140628/unknown.png">
 
-## ✔ My projects 
-
-<div style="display: inline_block">
-<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1165998212323225710/image.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
 ## ITA - Final Project - "Desenvolvimento Ágil de Software
 <img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725401090985984/Login.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725533509365760/home.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725768348455094/Lista_de_Livros.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## ✔ My personal projects 
+
+<div style="display: inline_block">
+<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1165998212323225710/image.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
 
 
             
