@@ -58,12 +58,12 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
 ## ✔ My projects 
 
 <div style="display: inline_block">
-<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1165998097172803667/image.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1165998212323225710/image.png"> 
-<img align="center" height="400" width="400" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021426001978331186/tempConv.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="400" width="400" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021426199391649852/calcWeb.png">
-<br><br>
-<img align="center" height="400" width="400" src="https://cdn.discordapp.com/attachments/1021425234093559830/1021427201104687164/formHTML.png">
+<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1165998212323225710/image.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725401090985984/Login.png">
+<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725533509365760/home.png">
+<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725768348455094/Lista_de_Livros.png">
+
+            
 </div>
 
 </body>
