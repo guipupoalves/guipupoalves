@@ -5,7 +5,7 @@
 
 ## Sobre mim (Português)
 
-Pós graduando em Ciência de Dados e Inteligência Artificial, MBA em Engenharia de Software pela USP, amante da tecnologia com foco em segurança cibernética, desenvolvimento seguro e experiência do usuário. Possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
+Pós graduando em Ciência de Dados e Inteligência Artificial, MBA em Engenharia de Software pela USP, amante da tecnologia com foco em segurança cibernética, gestão de produtos e projetos, e experiência do usuário. Possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
 
 Desenvolvi e apresentei meu projeto final "Quality of Life evaluation scale (AUQEI) – Modernização do questionário" no curso CS50x da Universidade de Harvard.
 Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (1997).)
@@ -18,7 +18,7 @@ Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (19
 
 ## About me (English)
 
-MBA Software Engineering student at University of São Paulo focusing on cybersecurity and user experience. Dedication, discipline and organization defines me. I'm a great team worker, a good communicator/listener and focused. My main goal is to growth professionally and personally in order to contribute to technological solutions and innovations.
+Postgraduate in Data Science and Artificial Intelligence, MBA Software Engineering student at University of São Paulo focusing on cybersecurity, product and project management, user experience. Dedication, discipline and organization defines me. I'm a great team worker, a good communicator/listener and focused. My main goal is to growth professionally and personally in order to contribute to technological solutions and innovations.
 
 Developed and presented my Final Project "Quality of Life evaluation scale (AUQEI) – Modernization of the questionnaire" in the CS50x course at Harvard University.
 All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).)
