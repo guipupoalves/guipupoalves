@@ -63,7 +63,7 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
 ## ✔ My personal projects 
 
 <div style="display: inline_block">
-<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1203907696860991518/image.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1212860817897300101/1.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 
