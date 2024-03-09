@@ -14,6 +14,8 @@ Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (19
 
 - Analista de Cibersegurança (Governança) Associado @IBSEC
 
+- Product Analytics Certified 
+
 - Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança: CCNA + CyberOps Associate + Network Security
 
 ## About me (English)
@@ -26,6 +28,8 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
 - Ethical Hacker @IBSEC
 
 - Associate Cybersecurity Analyst (Governance) @IBSEC
+
+- Product Analytics Certified
 
 - Cybersecurity program scholarship holder at CISCO Brazil CyberEducation: CCNA + CyberOps Associate + Network Security
 
