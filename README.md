@@ -50,8 +50,6 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
             <img align="center" alt="Gui-JS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
             <img align="center" alt="Gui-UE" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
 </div>
-            
-![Red Team logo](https://camo.githubusercontent.com/df931952954363ab8e50e725f8b6512a701e97cc39f6d34df7ffdde20bf0dfea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265645465616d2d4646303030303f7374796c653d666c6174266c6f676f3d6861636b61646179266c6f676f436f6c6f723d7768697465)
 
 ##
 
