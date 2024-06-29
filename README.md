@@ -10,13 +10,13 @@ Pós graduando em Ciência de Dados e Inteligência Artificial, MBA em Engenhari
 Desenvolvi e apresentei meu projeto final "Quality of Life evaluation scale (AUQEI) – Modernização do questionário" no curso CS50x da Universidade de Harvard.
 Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (1997).)
 
+- Hacker Ético Certified - Associado @IBSEC
+
+- Pentester Certified - Associado @IBSEC
+
+- Analista de Cibersegurança (Governança) Certified - Associado @IBSEC
+
 - Certificado em Product Analytics
-
-- Hacker Ético Associado @IBSEC
-
-- Analista de Cibersegurança (Governança) Associado @IBSEC
-
-- Product Analytics Certified 
 
 - Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança: CCNA + CyberOps Associate + Network Security
 
@@ -27,9 +27,9 @@ Postgraduate in Data Science and Artificial Intelligence, MBA Software Engineeri
 Developed and presented my Final Project "Quality of Life evaluation scale (AUQEI) – Modernization of the questionnaire" in the CS50x course at Harvard University.
 All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).)
 
-- Product Analytics Certified
-
 - Ethical Hacker @IBSEC
+
+- Certified Pentester - @IBSEC
 
 - Associate Cybersecurity Analyst (Governance) @IBSEC
 
