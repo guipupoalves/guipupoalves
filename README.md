@@ -1,5 +1,5 @@
 ##
-<img align="center" alt="Gui-Capa" height="210" width="1500" src="https://cdn.discordapp.com/attachments/1021425234093559830/1114375357353709629/Gui_Pupo_Alves_-_capa.png">
+![Banner](https://cdn.discordapp.com/attachments/1021425234093559830/1256642264567119983/v3.png?ex=668182cf&is=6680314f&hm=ee8f6f4d7d16a41b8c24dbb90e67796d2da4361a072560991527dd8e0be7437a)
 
 ## Olá, tudo bem? <img height="40" width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
