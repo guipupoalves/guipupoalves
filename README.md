@@ -5,7 +5,7 @@
 
 ## Sobre mim (Português)
 
-Pós graduando em Ciência de Dados e Inteligência Artificial, MBA em Engenharia de Software pela USP, amante da tecnologia com foco em segurança cibernética, gestão de produtos e projetos, e experiência do usuário. Possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
+Pós graduado em Ciência de Dados e Inteligência Artificial, MBA em Engenharia de Software pela USP, amante da tecnologia com foco em segurança cibernética, gestão de produtos e projetos, e experiência do usuário. Possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
 
 Desenvolvi e apresentei meu projeto final "Quality of Life evaluation scale (AUQEI) – Modernização do questionário" no curso CS50x da Universidade de Harvard.
 Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (1997).)
