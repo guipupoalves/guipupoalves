@@ -51,24 +51,6 @@ All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).
 </div>
 
 ##
-
-## ✔ My CS50X Final Project - Harvard University 
-
-<div style="display: inline_block">
-<img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1033130061584416808/unknown.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br><br>
-<img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1032036350288994374/ImgEngMax1.png">
-<br><br><br>
-<img align="center" height="400" width="700" src="https://cdn.discordapp.com/attachments/1021425234093559830/1033127029459140628/unknown.png">
-
-## Instituto Tecnológico de Aeronáutica - ITA - Final Project - "Desenvolvimento Ágil de Software
-<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725401090985984/Login.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725533509365760/home.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="400" width="1900" src="https://cdn.discordapp.com/attachments/1021425234093559830/1198725768348455094/Lista_de_Livros.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
             
 </div>
 
