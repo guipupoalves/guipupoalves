@@ -5,37 +5,29 @@
 
 ## Sobre mim (Português)
 
-Pós graduado em Ciência de Dados e Inteligência Artificial, MBA em Engenharia de Software pela USP, amante da tecnologia com foco em segurança cibernética, gestão de produtos e projetos, e experiência do usuário. Possuo como base dedicação, disciplina e organização. Tenho facilidade em trabalhar em equipe, boa comunicação, foco e determinação. Almejo um amplo crescimento profissional e pessoal a fim de contribuir para soluções e inovações tecnológicas.
+Profissional de Segurança da Informação, pós graduado em Engenharia de Software pela Universidade de São Paulo (USP), Segurança Ofensiva, e Ciência de dados & Inteligência Artificial. Atuação em ambientes corporativos e instituições financeiras, com foco em segurança ofensiva, análise e avaliação de aplicações Web e Mobile.
 
-Desenvolvi e apresentei meu projeto final "Quality of Life evaluation scale (AUQEI) – Modernização do questionário" no curso CS50x da Universidade de Harvard.
-Todos os direitos reservados ao artigo original (MANIFICAT, S., & DAZORD, A. (1997).)
+Experiência na condução e revisão técnica de testes de segurança ofensiva (EHT/Pentest), identificação de vulnerabilidades, elaboração de relatórios técnicos estruturados, incluindo o apoio no fornecimento de recomendações tangentes ao tratamento e correção.
 
-- Hacker Ético Certified - Associado @IBSEC
+Atuação alinhada a padrões e frameworks como OWASP e NIST, contribuindo para o fortalecimento do ciclo de desenvolvimento seguro (SSDLC). 
 
-- Pentester Certified - Associado @IBSEC
+Participação em programas de capacitação em cibersegurança promovidos pela Cisco.
 
-- Analista de Cibersegurança (Governança) Certified - Associado @IBSEC
+Autor e desenvolvedor de solução apresentada no CS50x da Universidade de Harvard voltada à modernização da escala AUQEI para avaliação de qualidade de vida.
 
-- Certificado em Product Analytics
-
-- Bolsista do Programa CiberEducação Cisco Brasil - Cibersegurança: CCNA + CyberOps Associate + Network Security
+Certificações e qualificações associadas às áreas de segurança ofensiva, redes e governança em cibersegurança.
 
 ## About me (English)
 
-Postgraduate in Data Science and Artificial Intelligence, MBA Software Engineering student at University of São Paulo focusing on cybersecurity, product and project management, user experience. Dedication, discipline and organization defines me. I'm a great team worker, a good communicator/listener and focused. My main goal is to growth professionally and personally in order to contribute to technological solutions and innovations.
+Information Security professional with postgraduate education in Software Engineering (University of São Paulo – USP), Offensive Security, and Data Science & Artificial Intelligence. Experienced in corporate and financial environments, focusing on offensive security and the security assessment of web and mobile applications.
 
-Developed and presented my Final Project "Quality of Life evaluation scale (AUQEI) – Modernization of the questionnaire" in the CS50x course at Harvard University.
-All rights reserved to the original article (MANIFICAT, S., & DAZORD, A. (1997).)
+Skilled in conducting and technically reviewing offensive security tests (EHT/Pentest), identifying vulnerabilities, and developing structured technical reports, including guidance on remediation and mitigation strategies.
 
-- Ethical Hacker @IBSEC
+Work aligned with widely adopted standards and frameworks such as OWASP and NIST, contributing to the enhancement of Secure Software Development Lifecycle (SSDLC) practices.
 
-- Certified Pentester - @IBSEC
+Completed cybersecurity training programs sponsored by Cisco.
 
-- Associate Cybersecurity Analyst (Governance) @IBSEC
-
-- Product Analytics Certified
-
-- Cybersecurity program scholarship holder at CISCO Brazil CyberEducation: CCNA + CyberOps Associate + Network Security
+Author and developer of a solution presented in the CS50x program at Harvard University, focused on modernizing the AUQEI scale for quality-of-life assessment.
 
 ##
 <body>
