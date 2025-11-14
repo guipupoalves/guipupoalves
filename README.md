@@ -1,5 +1,5 @@
 ##
-![Banner](banner.png)
+![Banner](https://github.com/guipupoalves/guipupoalves/blob/main/banner.jpg)
 
 ## Olá, tudo bem? <img height="40" width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
